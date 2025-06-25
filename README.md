@@ -2,8 +2,6 @@
 
 > Pure-C implementation of a teeny tiny Convolutional Neural Network trained on the classic **MNIST** handwritten-digits dataset – no external ML libraries, just math and standard C.
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  ![Language: C](https://img.shields.io/badge/language-C-blue)
-
 ---
 
 ## Table of Contents
