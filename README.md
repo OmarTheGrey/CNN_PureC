@@ -103,7 +103,7 @@ Backpropagation is the learning algorithm that enables neural networks to improv
 ## Quick Start
 ```bash
 # clone the repo
-$ git clone https://github.com/<your-user>/CNN-main.git && cd CNN-main/CNN-main
+$ git clone https://github.com/OmarTheGrey/CNN-main.git && cd CNN-main/CNN-main
 
 # build (works on Linux, macOS, WSL, MinGW, etc.)
 $ gcc -Wall -Wextra -O3 main.c lib/*.c -o cnn -lm
