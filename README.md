@@ -1,6 +1,6 @@
 # C Convolutional Neural Network (MNIST)
 
-> Pure-C implementation of a tiny Convolutional Neural Network trained on the classic **MNIST** handwritten-digits dataset – no external ML libraries, just math and standard C.
+> Pure-C implementation of a teeny tiny Convolutional Neural Network trained on the classic **MNIST** handwritten-digits dataset – no external ML libraries, just math and standard C.
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  ![Language: C](https://img.shields.io/badge/language-C-blue)
 
@@ -142,7 +142,7 @@ The code expects the four raw MNIST ubyte files inside the local `MNIST/` direct
 * `t10k-images-idx3-ubyte`
 * `t10k-labels-idx1-ubyte`
 
-If they are missing, download them from Yann LeCun’s website:
+from Yann LeCun’s website:
 <http://yann.lecun.com/exdb/mnist/>
 
 ## Results
